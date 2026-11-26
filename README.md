@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-Open the local development address shown in your terminal (usually http://localhost:8888).
+Open the local development address shown in your terminal (usually http://localhost:5173).
 ## Create a production build
 
 ```bash
